@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-hsofrf.keitaro-tech-rtb.online/sitemap.xml
